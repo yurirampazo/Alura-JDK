@@ -1,4 +1,5 @@
-config_ide/config.ini
-config_SINTAXE-BASICA/bin
+config_SINTAXE-BASICA/bin       
 config_SINTAXE-BASICA/.settings
+config_sintaxe-variaveis-e-fluxo/bin       
+config_sintaxe-variaveis-e-fluxo/.settings
 
